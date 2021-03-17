@@ -2,7 +2,7 @@
     Primeiro Projeto Dev
 </h2>
 
-![](D:\Projetos\Projeto final Lógica de programação\Gif 1°Video.gif)
+![](https://media.giphy.com/media/4KxF6IPdxB6UlBC1gL/giphy.gif)
 
 <p> 
     <b>Primeiro projeto da minha trajetoria como programador.</b>
